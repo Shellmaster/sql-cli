@@ -1,5 +1,4 @@
 FROM node
-
 MAINTAINER Rafal S. <rafal@maracje.pl>
 
 RUN npm install -g sql-cli
